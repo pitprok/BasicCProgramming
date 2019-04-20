@@ -198,6 +198,16 @@ printf("\n");
 
 }
 
+//Input from user
+
+//int main(int argc, char*argv[]) {
+//    int i;
+//    float f;
+//    char name[50];
+//    scanf("%d %f %s", &i, &f, name);
+//    return 0;
+//}
+
 
 
 
