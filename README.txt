@@ -1,0 +1,1 @@
+Just a set of examples for programming with C, from variable initialization to creating functions.
