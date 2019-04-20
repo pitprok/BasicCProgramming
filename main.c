@@ -41,19 +41,19 @@ union value {
 //Running all the small programs written below
 
 int main(int argc, char*argv[]) {
-    printf("Running 'helloWorld' function \n");
+    printf("Calling 'helloWorld' function \n");
     helloWorld();
-    printf("Running 'testingBasicOperators' function \n");
+    printf("Calling 'testingBasicOperators' function \n");
     testingBasicOperators();
-    printf("Running 'creatingBasicVariablesAndArrays' function \n");
+    printf("Calling 'creatingBasicVariablesAndArrays' function \n");
     creatingBasicVariablesAndArrays();
-    printf("Running 'printingMyNameAsString' function \n");
+    printf("Calling 'printingMyNameAsString' function \n");
     printingMyNameAsString();
-    printf("Running 'conditionals' function \n");
+    printf("Calling 'conditionals' function \n");
     conditionals();
-    printf("Running 'iterationStatements' function \n");
+    printf("Calling 'iterationStatements' function \n");
     iterationStatements();
-    printf("Running 'passByValue' function \n");
+    printf("Calling 'passByValue' function \n");
     passByValue();
 
     printf("Experimenting with structured types \n");
